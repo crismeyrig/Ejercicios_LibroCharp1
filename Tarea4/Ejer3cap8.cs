@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-   namespace Ejercicios_LibroCharp1.Ejercap3cap8
-{
-    public class Ejer3cap_8
+   
+    public class Ejer3cap8
     {
-        public static void Ejercicio()
+        public  void EjercicioDia()
         {
              string Hora;
              string Fecha;
@@ -20,4 +19,3 @@ using System.Threading.Tasks;
               
              
     }
-}

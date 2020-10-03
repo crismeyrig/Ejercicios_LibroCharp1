@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-   namespace Ejercicios_LibroCharp1.Ejer3cap9
-{
-  
-    
+
     public class Ejer3cap9
     {
+        public void Estructura()
+        {
+
+        
        enum Neumaticos { Carretera = 1, TodoTerreno, Competicion, Invierno };
         private bool dEdad;
 

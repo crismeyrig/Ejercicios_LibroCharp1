@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-   namespace Ejercicios_LibroCharp1.Ejer5_cap8
-{
-    public class Ejer5_cap8
+   
+    public class Ejer5cap8
     {
-        public static void Ordenar()
+        public  void Ordenar()
         {
               string Cadena1 ="Crismeyri";
               string Cadena2="Gael";
@@ -21,4 +20,4 @@ using System.Threading.Tasks;
         }
              
     }
-}   
+  
