@@ -4,11 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
-    class Ejercicio1Cap10
-    {
         //Crear el diseño de una clase para llevar el inventario de una tienda
-        public class InventarioTienda
+        public class Ejercicio1Cap10
         {
             private int ID { get; set; }
             private string nombre { get; set; }
@@ -17,7 +14,7 @@ using System.Threading.Tasks;
             private double cantidad { get; set; }
 
 
-            public InventarioTienda()
+            public Ejercicio1Cap10()
             {
                 ID = 0;
                 precio = 0;
@@ -26,7 +23,7 @@ using System.Threading.Tasks;
             }
 
 
-            public InventarioTienda(int id, string nombre, double costo, double precio, double cantidad)
+            public Ejercicio1Cap10(int id, string nombre, double costo, double precio, double cantidad)
             {
                 this.ID = id;
                 this.nombre = nombre;
@@ -35,4 +32,4 @@ using System.Threading.Tasks;
                 this.cantidad = cantidad;
             }
         }
-    }
+    

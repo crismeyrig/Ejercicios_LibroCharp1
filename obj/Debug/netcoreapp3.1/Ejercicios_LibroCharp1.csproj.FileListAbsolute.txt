@@ -1,0 +1,13 @@
+C:\Users\Crismeyri\source\repos\Ejercicios_LibroCharp1\obj\Debug\netcoreapp3.1\Ejercicios_LibroCharp1.csprojAssemblyReference.cache
+C:\Users\Crismeyri\source\repos\Ejercicios_LibroCharp1\obj\Debug\netcoreapp3.1\Ejercicios_LibroCharp1.AssemblyInfoInputs.cache
+C:\Users\Crismeyri\source\repos\Ejercicios_LibroCharp1\obj\Debug\netcoreapp3.1\Ejercicios_LibroCharp1.AssemblyInfo.cs
+C:\Users\Crismeyri\source\repos\Ejercicios_LibroCharp1\obj\Debug\netcoreapp3.1\Ejercicios_LibroCharp1.csproj.CoreCompileInputs.cache
+C:\Users\Crismeyri\source\repos\Ejercicios_LibroCharp1\bin\Debug\netcoreapp3.1\Ejercicios_LibroCharp1.exe
+C:\Users\Crismeyri\source\repos\Ejercicios_LibroCharp1\bin\Debug\netcoreapp3.1\Ejercicios_LibroCharp1.deps.json
+C:\Users\Crismeyri\source\repos\Ejercicios_LibroCharp1\bin\Debug\netcoreapp3.1\Ejercicios_LibroCharp1.runtimeconfig.json
+C:\Users\Crismeyri\source\repos\Ejercicios_LibroCharp1\bin\Debug\netcoreapp3.1\Ejercicios_LibroCharp1.runtimeconfig.dev.json
+C:\Users\Crismeyri\source\repos\Ejercicios_LibroCharp1\bin\Debug\netcoreapp3.1\Ejercicios_LibroCharp1.dll
+C:\Users\Crismeyri\source\repos\Ejercicios_LibroCharp1\bin\Debug\netcoreapp3.1\Ejercicios_LibroCharp1.pdb
+C:\Users\Crismeyri\source\repos\Ejercicios_LibroCharp1\obj\Debug\netcoreapp3.1\Ejercicios_LibroCharp1.dll
+C:\Users\Crismeyri\source\repos\Ejercicios_LibroCharp1\obj\Debug\netcoreapp3.1\Ejercicios_LibroCharp1.pdb
+C:\Users\Crismeyri\source\repos\Ejercicios_LibroCharp1\obj\Debug\netcoreapp3.1\Ejercicios_LibroCharp1.genruntimeconfig.cache

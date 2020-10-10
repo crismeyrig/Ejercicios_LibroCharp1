@@ -26,7 +26,7 @@ using System.Threading.Tasks;
             public string NombreMacosta;
             public int edadMascota;
         }
-        public void MascotaDueño()
+        /*public void MascotaDueño()
         {
           
             Dueno d = new Dueno();
@@ -41,6 +41,6 @@ using System.Threading.Tasks;
             m.EspecieMacosta = mEspecie;
             m.NombreMacosta = mNombre;
             m.edadMascota = Convert.ToInt32(mEdad);
-        }
+        }*/
              
     }
