@@ -1,6 +1,6 @@
 ﻿using System;
 using Ejercicios_LibroCharp1.Tarea3;
-//using Ejercicios_LibroCharp1.Tarea5;
+using Ejercicios_LibroCharp1.Tarea5;
 
 
 namespace Ejercicios_LibroCharp1
@@ -19,8 +19,9 @@ namespace Ejercicios_LibroCharp1
             Ejercicio1Cap10 ejercicio1Cap10 = new Ejercicio1Cap10();
             Ejercicio2Cap10 ejercicio2Cap10 = new Ejercicio2Cap10();
             Ejercicio3Cap10 ejercicio3Cap10 = new Ejercicio3Cap10();
+            Ejercicio1Cap12 ejercicio1Cap12 = new Ejercicio1Cap12();
 
-            while(menu != 9)
+            while(menu != 10)
             {
             Console.WriteLine("1-Ejercicio 1,2,3 cap 6");
             Console.WriteLine("2-Ejercicio 4 cap 6");
@@ -31,6 +32,7 @@ namespace Ejercicios_LibroCharp1
             Console.WriteLine("7-Ejercicio 1 cap 10");
             Console.WriteLine("8-Ejercicio 2 cap 10");
             Console.WriteLine("9-Ejercicio 3 cap 10");
+            Console.WriteLine("9-Ejercicio 1 cap 12");
             
             
             Console.WriteLine("15-Salir");
@@ -57,25 +59,21 @@ namespace Ejercicios_LibroCharp1
             
 
              case 4:
-
              ejer3Cap8.EjercicioDia();
 
             break;
 
             case 5 :
-          
               Console.WriteLine("Creando una estructura");
 
             break;
             
             case 6:
-        
              ejer5Cap8.Ordenar();
 
             break;
 
              case 7:
-           
              Console.WriteLine("Creando clases");
 
              break;
@@ -86,10 +84,10 @@ namespace Ejercicios_LibroCharp1
             break;
 
             case 9:
-     
              Console.WriteLine("Creando clases");
 
             break;
+
                 
         
              default: 
