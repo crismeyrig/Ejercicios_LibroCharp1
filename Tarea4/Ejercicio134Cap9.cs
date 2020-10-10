@@ -5,11 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-    public class Ejer3cap9
+    public class Ejercicio134Cap9
     {
-        public void Estructura()
-        {
-
         
        enum Neumaticos { Carretera = 1, TodoTerreno, Competicion, Invierno };
         private bool dEdad;
@@ -35,7 +32,7 @@ using System.Threading.Tasks;
             Dueno d = new Dueno();
             Mascota m = new Mascota(); 
 
-            // string dNombre;
+            string dNombre;
        
 
             d.NombreDueno = dNombre;
@@ -47,4 +44,3 @@ using System.Threading.Tasks;
         }
              
     }
-}
